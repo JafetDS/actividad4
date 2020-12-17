@@ -8,4 +8,4 @@ npm run build
 echo "3/3 Packing the application into a docker image"
 docker build . -t star-wars-server
 
-echo "3/3 steps completedd. Bye"
+echo "3/3 steps completedd. GoodBye"
